@@ -1,7 +1,7 @@
 #contenedor-principal {
   color: white;
   padding: 5px;
-  font-size: 10px;
+  font-size: 15px;
   background-color: yellow;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -24,7 +24,9 @@
 .em {
   background-color: green;
   width: 15em;
+  font-size: 2.3em;
 }
+
 
 
 
